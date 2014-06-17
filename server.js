@@ -25,3 +25,6 @@ function collisionDetect(boundA, boundB) {
   );
 }
 
+var playerIn = null;
+
+
